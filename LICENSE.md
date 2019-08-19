@@ -54,7 +54,6 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
 <ol>
 
 a. __License grant.__
-   <ol type=1>
 
    1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
     
@@ -77,7 +76,6 @@ a. __License grant.__
        &emsp;C. <u>No downstream restrictions.</u> You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
 
    6. <u>No endorsement.</u> Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
-   </ol>
 
 b. __Other rights.__
 
@@ -96,10 +94,7 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
 
 a. __Attribution.__
 
-   <ol type=1>
-
    1. If You Share the Licensed Material (including in modified form), You must:
-        <ol type="A">
 
         A. retain the following if it is supplied by the Licensor with the Licensed Material:
 
@@ -124,21 +119,16 @@ a. __Attribution.__
    2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
 
    3. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.
-   </ol>
 
 b. __ShareAlike.__
 
 In addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply.
-
-   <ol type=1>
 
    1. The Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-NC-SA Compatible License.
 
    2. You must include the text of, or the URI or hyperlink to, the Adapter's License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.
 
    3. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.
-   </ol>
-
 </ol>
 
 ### Section 4 – Sui Generis Database Rights.
@@ -171,12 +161,9 @@ a. This Public License applies for the term of the Copyright and Similar Rights 
 
 b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
 
-<ol type=1>
-
    1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
 
    2. upon express reinstatement by the Licensor.
-</ol>
 
 For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
 
