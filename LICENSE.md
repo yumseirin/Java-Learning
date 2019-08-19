@@ -54,6 +54,7 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
 <ol>
 
 a. __License grant.__
+   <ol type=1>
 
    1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
     
@@ -76,6 +77,7 @@ a. __License grant.__
        &emsp;C. <u>No downstream restrictions.</u> You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
 
    6. <u>No endorsement.</u> Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
+   </ol>
 
 b. __Other rights.__
 
@@ -90,11 +92,11 @@ b. __Other rights.__
 
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
 
-<ol type="a">
+<ol>
 
 a. __Attribution.__
 
-   <ol type="1">
+   <ol type=1>
 
    1. If You Share the Licensed Material (including in modified form), You must:
         <ol type="A">
@@ -128,7 +130,7 @@ b. __ShareAlike.__
 
 In addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply.
 
-   <ol type="1">
+   <ol type=1>
 
    1. The Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-NC-SA Compatible License.
 
@@ -142,7 +144,7 @@ In addition to the conditions in Section 3(a), if You Share Adapted Material You
 ### Section 4 – Sui Generis Database Rights.
 
 Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
-<ol type="a">
+<ol>
    a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database for NonCommercial purposes only;
 
    b. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section 3(b); and
@@ -169,7 +171,7 @@ a. This Public License applies for the term of the Copyright and Similar Rights 
 
 b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
 
-<ol type="1">
+<ol type=1>
 
    1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
 
