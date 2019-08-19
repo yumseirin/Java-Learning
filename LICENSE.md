@@ -51,8 +51,6 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
 
 ### Section 2 – Scope.
 
-<ol>
-
 a. __License grant.__
 
    1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
@@ -84,13 +82,10 @@ b. __Other rights.__
    2. Patent and trademark rights are not licensed under this Public License.
 
    3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.
-</ol>
 
 ### Section 3 – License Conditions.
 
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
-
-<ol>
 
 a. __Attribution.__
 
@@ -129,7 +124,6 @@ In addition to the conditions in Section 3(a), if You Share Adapted Material You
    2. You must include the text of, or the URI or hyperlink to, the Adapter's License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.
 
    3. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.
-</ol>
 
 ### Section 4 – Sui Generis Database Rights.
 
@@ -160,11 +154,11 @@ c. The disclaimer of warranties and limitation of liability provided above shall
 a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
 
 b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
+<ol>
+   1.automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
 
-   1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
-
-   2. upon express reinstatement by the Licensor.
-
+   2.upon express reinstatement by the Licensor.
+</ol>
 For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
 
 c. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
